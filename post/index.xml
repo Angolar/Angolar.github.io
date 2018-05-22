@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 浩哥随笔</title>
+    <link>https://angolar.github.io/post/</link>
+    <description>Recent content in Posts on 浩哥随笔</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018. All rights reserved.</copyright>
+    <lastBuildDate>Tue, 22 May 2018 19:55:36 +0800</lastBuildDate>
+    
+	<atom:link href="https://angolar.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First</title>
+      <link>https://angolar.github.io/post/first/</link>
+      <pubDate>Tue, 22 May 2018 19:55:36 +0800</pubDate>
+      
+      <guid>https://angolar.github.io/post/first/</guid>
+      <description> 首页 首页第一条 </description>
+    </item>
+    
+  </channel>
+</rss>
